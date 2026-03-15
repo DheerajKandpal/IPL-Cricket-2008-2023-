@@ -119,24 +119,24 @@ ipl-eda/
 
 <table>
   <tr>
-    <td><img src="charts/01_title_winners.png" width="400"/></td>
-    <td><img src="charts/02_wins_per_team.png" width="400"/></td>
+    <td><img src="charts/ipl_01_title_winners.png" width="400"/></td>
+    <td><img src="charts/ipl_02_wins_per_team.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><sub>IPL Title Winners</sub></td>
     <td align="center"><sub>Total Wins by Team</sub></td>
   </tr>
   <tr>
-    <td><img src="charts/04_avg_score_trend.png" width="400"/></td>
-    <td><img src="charts/11_correlation_heatmap.png" width="400"/></td>
+    <td><img src="charts/ipl_04_avg_score_trend.png" width="400"/></td>
+    <td><img src="charts/ipl_11_correlation_heatmap.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Score Inflation Over Seasons</sub></td>
     <td align="center"><sub>Batting Stats Correlation Matrix</sub></td>
   </tr>
   <tr>
-    <td><img src="charts/06_top_batsmen.png" width="400"/></td>
-    <td><img src="charts/09_economy_pace_spin.png" width="400"/></td>
+    <td><img src="charts/ipl_06_top_batsmen.png" width="400"/></td>
+    <td><img src="charts/ipl_09_economy_pace_spin.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Top Run Scorers</sub></td>
